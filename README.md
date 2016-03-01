@@ -39,11 +39,12 @@ System dependencies:
 
 ### Configuration
 
-Find below the files you might need to modify in order to configure the launch of the application.
+Find below the files you might need to modify/use in order to configure the launch of the application.
 
 - config/environment.yml
 - config/database.yml
 - config/puma/*.rb
+- config/nginx/server.conf
 
 ### Deployment
 _Update 'production' to 'development' if you want to test locally_

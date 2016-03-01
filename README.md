@@ -24,13 +24,13 @@ In this repository, you'll find a simple Rails project with one model. The main 
 
 Find below the technical requirements for your virtual context.
 
-* Ruby version
+Ruby version:
 - 2.3
 
-* Rails version
+Rails version:
 - 4.2.1
 
-* System dependencies
+System dependencies:
 - ruby (with bundler)
 - nodejs
 - mysql

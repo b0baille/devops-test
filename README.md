@@ -18,7 +18,7 @@ It's 9AM in the office and first calls are coming in!
 
 ## Instructions
 
-In this repository, you'll find a simple Rails project with one model. The main route in order to use this application is _/users_.
+In this repository, you'll find a simple Rails project with one model.
 
 ### Technical stack
 

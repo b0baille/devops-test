@@ -39,7 +39,7 @@ System dependencies:
 
 ### Configuration
 
-Find below the files you need to modify in order to configure the launch of the application
+Find below the files you need to modify in order to configure the launch of the application.
 
 - config/environment.yml
 - config/database.yml
@@ -47,17 +47,17 @@ Find below the files you need to modify in order to configure the launch of the 
 
 ### Deployment (update 'production' to 'development' if you want to test locally)
 
-Find below the commands you need to launch in order to deploy this application
+Find below the commands you need to launch in order to deploy this application.
 
-* App dependencies
+App dependencies:
 - bundle install
 - RACK_ENV=production RAILS_env=production rake assets:precompile
 
-* Database creation
+Database creation:
 - RACK_ENV=production RAILS_env=production rake db:create
 
-* Database initialization
+Database initialization:
 - RACK_ENV=production RAILS_env=production rake db:migrate
 
-* Web server initialization
+Web server initialization:
 - RACK_ENV=production RAILS_env=production bundle exec puma

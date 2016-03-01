@@ -46,7 +46,8 @@ Find below the files you need to modify in order to configure the launch of the 
 - config/puma/*.rb
 
 ### Deployment
-__Update 'production' to 'development' if you want to test locally__
+_Update 'production' to 'development' if you want to test locally_
+
 Find below the commands you need to launch in order to deploy this application.
 
 App dependencies:

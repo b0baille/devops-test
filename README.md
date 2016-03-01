@@ -22,7 +22,7 @@ In this repository, you'll find a simple Rails project with one model. The main 
 
 ### Technical stack
 
-Here are the technical requirements for your virtual context
+Find below the technical requirements for your virtual context.
 
 * Ruby version
 - 2.3
@@ -31,13 +31,15 @@ Here are the technical requirements for your virtual context
 - 4.2.1
 
 * System dependencies
-- ruby
+- ruby (with bundler)
+- nodejs
 - mysql
 - nginx
+- libxslt-dev libxml2-dev zlib1g-dev libmysqlclient-dev
 
 ### Configuration
 
-Here are the files you need to modify in order to configure the launch of the application
+Find below the files you need to modify in order to configure the launch of the application
 
 - config/environment.yml
 - config/database.yml
@@ -45,7 +47,7 @@ Here are the files you need to modify in order to configure the launch of the ap
 
 ### Deployment (update 'production' to 'development' if you want to test locally)
 
-Here are the commands you need to launch in order to deploy this application
+Find below the commands you need to launch in order to deploy this application
 
 * App dependencies
 - bundle install

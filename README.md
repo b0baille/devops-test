@@ -18,7 +18,7 @@ It's 9AM in the office and first calls are coming in!
 
 ## Instructions
 
-In this repository, you'll find a simple Rails project with one model.
+In this repository, you'll find a simple Rails project with one model. Your goal is to set up the web server using requirements below. The web server should be reachable from a public IP address.
 
 ### Technical stack
 
@@ -39,7 +39,7 @@ System dependencies:
 
 ### Configuration
 
-Find below the files you need to modify in order to configure the launch of the application.
+Find below the files you might need to modify in order to configure the launch of the application.
 
 - config/environment.yml
 - config/database.yml

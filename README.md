@@ -53,13 +53,13 @@ Find below the commands you need to launch in order to deploy this application.
 
 App dependencies:
 - bundle install
-- RACK_ENV=production RAILS_env=production rake assets:precompile
+- RACK_ENV=production RAILS_ENV=production rake assets:precompile
 
 Database creation:
-- RACK_ENV=production RAILS_env=production rake db:create
+- RACK_ENV=production RAILS_ENV=production rake db:create
 
 Database initialization:
-- RACK_ENV=production RAILS_env=production rake db:migrate
+- RACK_ENV=production RAILS_ENV=production rake db:migrate
 
 Web server initialization:
-- RACK_ENV=production RAILS_env=production bundle exec puma
+- RACK_ENV=production RAILS_ENV=production bundle exec puma
